@@ -33,14 +33,10 @@ header{
 }
 
 .title-content{
-    background-color: grey;
-    border: 1px dashed black;
     height: 50px;
 }
 
 .card-content{
-    background-color: red;
-    border: 1px dashed black;
     height: 250px;
     border-radius: 30px;
     margin: 10px 0;
